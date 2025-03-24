@@ -1,0 +1,1 @@
+java -jar APR_Dostihy_nedvedd.jar
